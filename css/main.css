@@ -2059,7 +2059,7 @@ input::-moz-focus-inner {
   display: block;
   height: 2px;
   width: 8rem;
-  background-color: #f9861a;
+  /* background-color: #f9861a; */
   position: absolute;
   left: -10.8rem;
   top: .55em;
