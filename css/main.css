@@ -2049,6 +2049,7 @@ input::-moz-focus-inner {
   line-height: 1.257;
   padding-right: 3.2rem;
   margin-top: 0;
+  margin-left: 50rem;
   color: #ffffff;
   position: relative;
 }
